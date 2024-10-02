@@ -1785,7 +1785,7 @@ header.s2 #mainmenu>li>a {
 
 header.header-mobile {
   position: fixed !important;
-  background: var(--title-font-color);
+  background: #c5be4f;
   top: 0;
   padding-bottom: 10px;
 }
