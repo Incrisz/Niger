@@ -1,5 +1,5 @@
  /* --------------------------------------------------
-  * © Copyright 2024 - Mindthera by Designesia
+  * © Copyright 2024 - Niger-SMEby Designesia
   * --------------------------------------------------*/
 (function($) {
 	'use strict';
