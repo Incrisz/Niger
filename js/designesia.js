@@ -1,5 +1,5 @@
  /* --------------------------------------------------
-  * © Copyright 2024 - Niger-SMEby Designesia
+  * © Copyright 2024 - Niger-SME
   * --------------------------------------------------*/
 (function($) {
 	'use strict';
